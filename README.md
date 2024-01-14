@@ -1,6 +1,6 @@
 # Hello I am Eman
 
-:star: Full Stack Engineer and a Math teacher  :star:
+:star: Full Stack Engineer and a Math genius  :star:
 
 
 
