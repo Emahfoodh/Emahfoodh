@@ -3,6 +3,7 @@
 :star: Full Stack Engineer and a Math genius  :star:
 
 Hello I am Eman Mahfoodh.
+
 I hold a bachelor's degree in Mathematics and found my passion in the fascinating world of programming.
 I find joy in exploring various domains of software development, such as machine learning,, data analysis, and algorithm design. With a strong mathematical background, I bring a unique perspective to the field of programming, enabling me to approach challenges with analytical thinking and precision.
 
