@@ -5,7 +5,7 @@
 Hello I am Eman Mahfoodh.
 
 I hold a bachelor's degree in Mathematics and found my passion in the fascinating world of programming.
-I find joy in exploring various domains of software development, such as machine learning,, data analysis, and algorithm design. With a strong mathematical background, I bring a unique perspective to the field of programming, enabling me to approach challenges with analytical thinking and precision.
+I find joy in exploring various domains of software development, such as machine learning, data analysis, and algorithm design. With a strong mathematical background, I bring a unique perspective to the field of programming, enabling me to approach challenges with analytical thinking and precision.
 
 Driven by curiosity, I am constantly expanding my knowledge and staying up to date with the latest advancements in the programming world. I believe that the combination of mathematics and programming provides a powerful toolkit for tackling complex problems and creating innovative solutions.
 
