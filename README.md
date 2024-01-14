@@ -2,6 +2,12 @@
 
 :star: Full Stack Engineer and a Math genius  :star:
 
+I hold a bachelor's degree in Mathematics and found my passion 
+
+
+
+## Skills
+GitGoJavaScriptHTML5CSS3DockerLinux 
 
 ## 📊 GitHub Stats:
 
